@@ -2,6 +2,10 @@
 
 On 26.03.2020 its best work repo of Wa.
 
+I am not the author of this backport.
+I just uploaded it to the github because the author is too lazy to create his own repository.
+But I have a connection with the author.
+
 Attempting to backport current weakauras to TBC for use on the LH server
 
 ## How To
