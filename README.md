@@ -6,6 +6,13 @@ I am not the author of this backport.
 I just uploaded it to the github because the author is too lazy to create his own repository.
 But I have a connection with the author.
 
+Works:
+Aura check (except for checking the remaining aura ...)
+Checking cooldowns (there are some incorrectly working spells, for example mangle druids)
+Battle log check
+Can Spell Use check
+The rest works partially, but you can always write a report, or (and it will be better) to fix it yourself.
+
 Attempting to backport current weakauras to TBC for use on the LH server
 
 ## How To
