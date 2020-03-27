@@ -29,9 +29,9 @@ Very little of the useage/interface should be changed from the legitimate versio
 
 ## Credits - WeakAuras and Resources used to emulate updates that were added to the wow api
 
-This backport is created by Artur91425
+This backport is created by Artur91425 [https://github.com/Artur91425]
 
-Mirrored for WeakAuras
+And also based on developments:
 
 Numielle [https://github.com/Numielle] for ActionButtonGlow
 
